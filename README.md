@@ -1,4 +1,4 @@
-# Real Time Machine learning + Image processing to diagnose crop health
+# Real Time Machine learning + Image Processing to diagnose crop health
 This setup runs a on a hardware setup of a Raspberry Pi and PiCam. When python script is executed, app starts up and snaps a picture, image is sent through a custom trained image classifer to first identify the type of crop in the image. After that, image is processed using the openCV library. Result is a diagnosed crop in regards to the crop size, diseased ar0e0a and percentage value to correlation of golden sample of crop.
 
 Improvements and notes:
