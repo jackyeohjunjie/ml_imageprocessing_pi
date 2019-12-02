@@ -4,4 +4,4 @@ To run the main program, ml_imageprocessing_pi you must install:
 2. OpenCV + python packages: Guide here: https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
 3. pi camera: Guide here: https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
 4. TensorFlow: https://github.com/samjabrahams/tensorflow-on-raspberry-pi
-5. Ensure that model retrained_graph.pb and retrained_labels.txt are in directory "ome/pi/tf_files/"
+5. Ensure that model retrained_graph.pb and retrained_labels.txt are in directory "home/pi/tf_files/"
