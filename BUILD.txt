@@ -1,4 +1,4 @@
-To run the main program, JackYeoh_43825536_ENGG4801 you must install: 
+To run the main program, ml_imageprocessing_pi you must install: 
 
 1. Raspbian OS: https://www.raspberrypi.org/downloads/raspbian/
 2. OpenCV + python packages: Guide here: https://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
